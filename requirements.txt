@@ -1,4 +1,0 @@
-python-telegram-bot==21.6
-requests==2.31.0
-reportlab==4.2.2
-aiohttp==3.9.5
